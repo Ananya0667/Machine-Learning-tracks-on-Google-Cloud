@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://github.com/Ananya0667">
-  <img height="250em" src="https://github.com/Ananya0667/Machine-Learning-tracks-on-Google-Cloud/blob/main/ml1.PNG"/>
-  <img height="250em" src="https://github.com/Ananya0667/Machine-Learning-tracks-on-Google-Cloud/blob/main/ml2.PNG"/>
+  <img height="300em" src="https://github.com/Ananya0667/Machine-Learning-tracks-on-Google-Cloud/blob/main/ml1.PNG"/> <br>
+  <img height="300em" src="https://github.com/Ananya0667/Machine-Learning-tracks-on-Google-Cloud/blob/main/ml2.PNG"/>
 </a>
 </p>
